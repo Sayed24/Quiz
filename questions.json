@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How do you create a function in JavaScript?",
+        "choice1": "function myFunction()",
+        "choice2": "function = myFunction()",
+        "choice3": "function:myFunction",
+        "choice4": "function = myFunction=()",
+        "answer": 1
+    },
+    {
+        "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+        "choice1": "if i = 5 then",
+        "choice2": "if (i <> 5)",
+        "choice3": "if(i != 5)",
+        "choice4": "if i <> 5",
+        "answer": 3
+    },
+    {
+        "question": "How does a FOR loop start?",
+        "choice1": "for(i=0; i<=5; i++)",
+        "choice2": "for i = 1 to 5",
+        "choice3": "for(i <=5; i++",
+        "choice4": "for (i=0; i<=5)",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct way to write a JavaScript array?",
+        "choice1": "let colors = 'red' 'green', 'blue'",
+        "choice2": "let colors = (1:'red', 2:'green', 3:'blue'",
+        "choice3": "let colors = ['red', 'green', 'blue']",
+        "choice4": "let colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+        "answer": 3
+    },
+    {
+        "question": "Which event occurs when the user clicks on an HTML element?",
+        "choice1": "onmouseclick",
+        "choice2": "onmouseover",
+        "choice3": "onchange",
+        "choice4": "onclick",
+        "answer": 4
+    }
+]
